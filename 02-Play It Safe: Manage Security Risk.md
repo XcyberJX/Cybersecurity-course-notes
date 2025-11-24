@@ -138,4 +138,4 @@ Being accountable for the security and privacy risks that many exist in ann orga
 ## RMF Step 7: Monitor
 Be aware of how systems are operating.
 
-- 
+- Assessing and maintaining technical operations are tasks that analyst complete daily.
