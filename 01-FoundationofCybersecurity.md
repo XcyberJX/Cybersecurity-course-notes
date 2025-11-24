@@ -329,4 +329,22 @@ Terms:
 - **Playbook** - a manual that provides details about any operational action.
 - Playbooks can pertain to  security or compliance reviews, access management, and many other organizational tasks that require a documented process from beginning to end.
 - Commmon  network protocol analyzers include **tcpdump** and **Wireshark**.
+- **Chain of Custody** - The process of documenting evidence possession and controling during an incident lifecycle.
+- As a security analyst, involved in a forensic analysis, you will work with the computer data that was breached.
+- The evidence is your responsibility while it is in your possession. Evidence must be kept safe and tracked. Everytime evidence is moved it should be reported.
+
+## Introduction of Linux, SQL, and Python
+### Notes
+
+- Linux relies on a command line as primary user interface.
+- A common use of Linux for entry-level security analysts is examining logs to better understand what's occurring in a system.
+- An entry-level security analyst would use SQL to filter through the data points to retrieve specific information.
+- **Python** - Used to perform tasks that are repetitive and time-consuming, and that require a high level of detail and accurracy.
+- Become familiar with standard tools to show employers that you have the ability to learn how to use their tools protect the organization and the pepole it servers.
+- **Command Line** - A text-based user interface that uses commands to interact with the computer.
+- **Web Vulnerability** - A unique flaw in a web application that a threat actor could exploit by using malicious code or behavior, to allow unauthorized access, data theft, and malware deployment.
+- **Antivirus Software** - A program used to prevent, detect, and eliminate malware and viruses. Often called anti-malware. Can scan the memory of a device to find patterns that indicate the presence of malware.
+- **Intrusion Detections System** - An application that monitors system activity and alerts on possible intrustions.
+- **Encryption** - The process of converting data from a readable format to a cryptographically encoded format.
 - 
+ 
