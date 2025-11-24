@@ -84,4 +84,11 @@ Focused on using secure coding practices.
 - Medium-risk asset - Information that's not available to the public and may cause some damage to the organzation's finances, reputation, or ongoing operations.
 - For example, the early release of a company's quarterly earnings could impact the value of their stock.
 - High-risk asset - Information protected by regulations or laws, which if compromised would have servere negative impact on an organization's finances, ongoing operations, or reputation.
+- This could include leaked assets with SPI, PII, or intellectual property.
+- Once ransomware is deployed by an attacker, it can freeze networks systems, leave devices unusable, and encrypt, or lock confidential data, making devices inaccessible.
+- When ransomware negotiations occur or data is leaked by threat actors, these events can occur through the dark web.
+- The web is actually an interlinked network of online content that's made up of three layers: the surface web, the deep web, and the dark web.
+- The surface web is the layer that most people use, contains content that can be accessed using a web browser.
+- The deep web generally requires authorization to access. An organization's intranet is an example of the deep web, since in can only be accessed by employees or others who can have been granted access.
+- The dark web can only be access by using special software. The dark web generally carriers a negative connotation since it is the preferred web layer for criminals because of the secrecy that it provides.
 - 
