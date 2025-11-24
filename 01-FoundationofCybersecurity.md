@@ -346,5 +346,10 @@ Terms:
 - **Antivirus Software** - A program used to prevent, detect, and eliminate malware and viruses. Often called anti-malware. Can scan the memory of a device to find patterns that indicate the presence of malware.
 - **Intrusion Detections System** - An application that monitors system activity and alerts on possible intrustions.
 - **Encryption** - The process of converting data from a readable format to a cryptographically encoded format.
-- 
+- **Cyptographic Encoding** - Converting plaintext inton secure ciphertext.
+- **Secure Ciphertext** - The result of encryption.
+- **Penetration Testing** - The act of participating in a simulated attack that helps identify vulnerabilities in systems, networks, websites,applications, and processes. (Also called pen testing.)
+- **Protecting and Preserving Evidence** - The process of properly working with fragile and volatile digital evidence.
+
+## This concludes the notes taken from Course 1 of the Google Cybersecurity Professional Certificate.
  
