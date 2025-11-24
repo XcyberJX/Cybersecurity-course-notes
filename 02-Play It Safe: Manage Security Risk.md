@@ -91,4 +91,51 @@ Focused on using secure coding practices.
 - The surface web is the layer that most people use, contains content that can be accessed using a web browser.
 - The deep web generally requires authorization to access. An organization's intranet is an example of the deep web, since in can only be accessed by employees or others who can have been granted access.
 - The dark web can only be access by using special software. The dark web generally carriers a negative connotation since it is the preferred web layer for criminals because of the secrecy that it provides.
+  
+## NIST's Risk Management Framework
+- Having a solid foundational understanding of how to mitigate and manage risk can set me apart from other candidates as I begin your job search in the field of security.
+
+## There are seven steps in the RMF:
+- Prepare
+- Categorize
+- Select
+- Implement
+- Assess
+- Authorize
+- Monitor
+
+## RMF Step 1: Prepare
+Activities that are necessary to manage security and privacy risks before a breach occurs.
+
+- As an entry-level analyst, I'll likely use this step to monitor for risks and identify controls that can be used to reduce those risks.
+
+## RMF Step 2: Categorize
+Used to develope risk management processes and tasks.
+
+- As an entry-level analyst, you'll need to be able to understand how to follow the processes established by your organization to reduce risks to critical assets, such as private customer information.
+
+## RMF Step 3: Select
+Choose, customize, and capture documentation of the controls that protect an organzaition.
+
+- An example of the select step would be keeping a playbook up-to-date or helping to manage other documentation that allows you and your team to address issues more efficiently.
+
+## RMF Step 4: Implement
+Implementing security and privacy plans for the organization.
+
+- For example, if you notice a pattern of employees constantly needing password resets, implementing a change to password requirements may help solve this issue.
+
+## RMF Step 5: Assess
+Determine if established controls are implemented correectly.
+
+- It's essential to take the time to analyze whether the implemented protocols, procedures, and controls that are in place are meeting organizational needs.
+- During this step, analyst identify potential weaknesses and determine whether the organization's tools, procedures, controls, and protocols should be changed to better manage potential risks.
+
+## RMF Step 6: Authorize
+Being accountable for the security and privacy risks that many exist in ann organization.
+
+- As analyst, the authorization step could involve generating reports, developing plans of action, and establishing project milestones that are aligned to your  organizations goals.
+
+## RMF Step 7: Monitor
+Be aware of how systems are operating.
+
 - 
