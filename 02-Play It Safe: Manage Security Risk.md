@@ -139,3 +139,12 @@ Being accountable for the security and privacy risks that many exist in ann orga
 Be aware of how systems are operating.
 
 - Assessing and maintaining technical operations are tasks that analyst complete daily.
+
+## Notes
+- A primary goal of organizations is to protect digital assets. Examples of digital assets include the personal information of employees, clients, or vendors, such as: Social Security Numnbers (SSNs), or unique national identification numbers assigned to individuals, dates of birth, bank account numbers, or mailing adresses.
+- Examples of physical assets include: Payment kiosks, servers, desktops computers, or office spaces.
+- Some common stragtegies used to manage risks include: Acceptance: accepting a risk to avoid disrupting business continuity. Avoidance: creating a plan to avoid the risk altogether. Transference: Transferring risk to a third party to manage. Mitigation: Lessening the impact of a known risk.
+- Organizations implement risk management processes based on widely accepted frameworks to help protect digital and physical assets from various threats, risks, and vulnerabilities.
+
+# Security Frameworks and Control (Module 2)
+-
