@@ -147,4 +147,33 @@ Be aware of how systems are operating.
 - Organizations implement risk management processes based on widely accepted frameworks to help protect digital and physical assets from various threats, risks, and vulnerabilities.
 
 # Security Frameworks and Control (Module 2)
--
+Terms:
+
+- **Assets** - An item perceived as having value to an organization.
+- **Attack Vectors** - The pathways use to penetrate security defenses.
+- **Authentication** - The process of verifying who someone is.
+- **Authorization** - The concept of granting access to specific resources in a system.
+- **Availability** - The idea that data is accessible to those who are authorized to access it.
+- **Biometrics** - The unique physical characteristics that can be used to verify a person's identify.
+- **Confidentiality** - The list that only authorized users canaccess specific assets or data.
+- **Confidentiality, Intergrity, Availability (CIA) triad** - A model that helps inform how organizations consider risk when setting up systems and secrurity policies.
+- **Detect** - A NIST core function related to identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency policies.
+- **Encryption** - The process of converting data from a readable format to an encoding format.
+- **Govern** - A NIST core function related to ensuring an organization establishes, oversees, and imroves its cybersecurity strategy, policies, roles, and risk management processes to align with business goals and regulations.
+- **Identify** - A NIST core function related to management of cybersecurity risk its effect on an organization's people and assets.
+- **National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)** - A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
+- **National Institution of Standards and Technology (NIST) Special Publication (S.P) 800-53** - A unified framework for protecting the security of information systems within the U.S. federal government.
+- **Open Web Application Security Project/Open Worldwide Application Security Project (OWASP)** - A non-profit organization focused on improving software security.
+- **Protect** - A NIST core function used to protect an organization through the implementation of policies, procedures, training and tools help mitigate cybersecurity threats.
+- **Recover** - A NIST core function related to returning affected systens back to normal operation
+- **Respond** - A NIST core function related to making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implement improvements to the security processs.
+- **Risk** - Anything that can impact the confidentiality, integrity, or abailability of an asset.
+- **Security Audit** - A review of an organization's security controls, policies, and procedures against a set of expectations.
+- **Security Controls** - Safegaurds designed to reudce specific security risks
+- **Security Frameworks** - Guidelines used for building plans to help mitigate risk and threats to data and privacy.
+- **Security Posture** - An organization's ability to mange its defense of critical assets and data and react to change.
+- **Threat** - Any circumstance or event that can negatively impact assets.
+
+---
+
+## Frameworks
